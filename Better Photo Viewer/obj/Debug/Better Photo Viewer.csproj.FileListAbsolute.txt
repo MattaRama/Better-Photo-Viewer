@@ -1,0 +1,10 @@
+C:\Users\Matt\source\repos\Better Photo Viewer\Better Photo Viewer\bin\Debug\Better Photo Viewer.exe.config
+C:\Users\Matt\source\repos\Better Photo Viewer\Better Photo Viewer\bin\Debug\Better Photo Viewer.exe
+C:\Users\Matt\source\repos\Better Photo Viewer\Better Photo Viewer\bin\Debug\Better Photo Viewer.pdb
+C:\Users\Matt\source\repos\Better Photo Viewer\Better Photo Viewer\obj\Debug\Better Photo Viewer.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\Better Photo Viewer\Better Photo Viewer\obj\Debug\Better_Photo_Viewer.Properties.Resources.resources
+C:\Users\Matt\source\repos\Better Photo Viewer\Better Photo Viewer\obj\Debug\Better Photo Viewer.csproj.GenerateResource.cache
+C:\Users\Matt\source\repos\Better Photo Viewer\Better Photo Viewer\obj\Debug\Better Photo Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\Better Photo Viewer\Better Photo Viewer\obj\Debug\Better Photo Viewer.exe
+C:\Users\Matt\source\repos\Better Photo Viewer\Better Photo Viewer\obj\Debug\Better Photo Viewer.pdb
+C:\Users\Matt\source\repos\Better Photo Viewer\Better Photo Viewer\obj\Debug\Better_Photo_Viewer.frmBPV.resources

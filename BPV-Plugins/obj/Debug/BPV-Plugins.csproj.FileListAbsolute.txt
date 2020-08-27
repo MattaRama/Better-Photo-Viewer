@@ -1,0 +1,6 @@
+C:\Users\Matt\source\repos\Better Photo Viewer\BPV-Plugins\bin\Debug\BPV-Plugins.dll
+C:\Users\Matt\source\repos\Better Photo Viewer\BPV-Plugins\bin\Debug\BPV-Plugins.pdb
+C:\Users\Matt\source\repos\Better Photo Viewer\BPV-Plugins\obj\Debug\BPV-Plugins.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\Better Photo Viewer\BPV-Plugins\obj\Debug\BPV-Plugins.dll
+C:\Users\Matt\source\repos\Better Photo Viewer\BPV-Plugins\obj\Debug\BPV-Plugins.pdb
+C:\Users\Matt\source\repos\Better Photo Viewer\BPV-Plugins\obj\Debug\BPV-Plugins.csprojAssemblyReference.cache
